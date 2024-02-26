@@ -1,3 +1,7 @@
 .idea
 venv
 device.json
+devices.json
+tinytuya.json
+tuya-raw.json
+snapshot.json
